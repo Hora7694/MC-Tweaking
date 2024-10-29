@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      "lll",
+      "s s",
+      "i i"
+    ],
+    "key": {
+      "l": "minecraft:leather",
+      "s": "minecraft:string",
+      "i": "minecraft:iron_nugget"
+    },
+    "result": {
+      "id": "minecraft:saddle"
+    }
+}

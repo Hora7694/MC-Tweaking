@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": "minecraft:jungle_planks",
+  "result": {
+    "id": "minecraft:jungle_stairs",
+    "count": 1
+  }
+}

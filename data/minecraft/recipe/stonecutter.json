@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " i ",
+      "sss"
+    ],
+    "key": {
+      "i": "minecraft:iron_ingot",
+      "s": [
+        "minecraft:stone",
+        "minecraft:granite",
+        "minecraft:andesite",
+        "minecraft:diorite",
+        "minecraft:deepslate"
+      ]
+    },
+    "result": {
+      "id": "minecraft:stonecutter",
+      "count": 1
+    }
+}

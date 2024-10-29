@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": "minecraft:warped_planks",
+  "result": {
+    "id": "minecraft:warped_fence_gate",
+    "count": 1
+  }
+}

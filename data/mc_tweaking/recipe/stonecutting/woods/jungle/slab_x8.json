@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": [
+    "minecraft:jungle_log",
+    "minecraft:stripped_jungle_log",
+    "minecraft:jungle_wood",
+    "minecraft:stripped_jungle_wood"
+  ],
+  "result": {
+    "id": "minecraft:jungle_slab",
+    "count": 8
+  }
+}

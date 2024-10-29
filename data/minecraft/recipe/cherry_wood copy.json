@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "bark",
+    "pattern": [
+      "ll",
+      "ll"
+    ],
+    "key": {
+      "l": "minecraft:stcherry_log"
+    },
+    "result": {
+      "id": "minecraft:cherry_wood",
+      "count": 4
+    }
+}

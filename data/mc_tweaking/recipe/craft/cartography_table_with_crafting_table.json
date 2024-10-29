@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "cartography_table",
+    "ingredients": [
+      "minecraft:crafting_table",
+      "minecraft:paper",
+      "minecraft:paper"
+    ],
+    "result": {
+      "id": "minecraft:cartography_table"
+    }
+  }

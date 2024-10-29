@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "required": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:honeycomb_block"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "recipes": [
+        "mc_tweaking:craft/honeycomb"
+      ]
+    }
+}

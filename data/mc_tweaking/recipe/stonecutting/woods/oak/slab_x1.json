@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": "minecraft:oak_stairs",
+  "result": {
+    "id": "minecraft:oak_slab",
+    "count": 1
+  }
+}
