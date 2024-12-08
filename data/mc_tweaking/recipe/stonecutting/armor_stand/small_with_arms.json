@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:armor_stand",
+    "result": {
+      "id": "minecraft:armor_stand",
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:armor_stand",
+          "Small": true
+        },
+        "minecraft:lore": [
+          "{'text':'Attrubute:','color':'gray','italic':false}",
+          "{'text':' Visible Arms','color':'blue','italic':false}",
+          "{'text':' Small','color':'blue','italic':false}"
+        ],
+        "minecraft:enchantment_glint_override": true,
+        "minecraft:custom_model_data": {
+          "strings": [
+            "small_armor_stand_with_arms"
+          ]
+        }
+      }
+    }
+  }
