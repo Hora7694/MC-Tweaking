@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "light_gray_wool",
+  "ingredients": [
+    "minecraft:white_wool",
+    "minecraft:gray_wool"
+  ],
+  "result": {
+    "id": "minecraft:light_gray_wool",
+    "count": 2
+  }
+}
