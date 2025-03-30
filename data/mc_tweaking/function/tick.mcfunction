@@ -24,4 +24,17 @@ execute as @e[type=minecraft:potion,nbt={Item:{components:{"minecraft:potion_con
 execute as @e[type=minecraft:potion,nbt={Item:{components:{"minecraft:potion_contents":{potion:"minecraft:water"}}}}] at @s if dimension minecraft:the_end run fill ~1 ~ ~1 ~-1 ~ ~-1 stone replace minecraft:lava[level=0]
 
 
+#       Convertion
+
+#   magma cream to silme ball
+execute as @e[type=minecraft:item] at @s if items entity @s contents minecraft:magma_cream if block ~ ~ ~ minecraft:water_cauldron run particle minecraft:smoke ~ ~1 ~ 0.1 0 0.1 0 300 normal
+execute as @e[type=minecraft:item] at @s if items entity @s contents minecraft:magma_cream if block ~ ~ ~ minecraft:water_cauldron run item modify entity @s contents mc_tweaking:convert_magma_cream
+
+#   concrete powder to concrete
+execute as @e[type=minecraft:item] at @s if items entity @s contents #mc_tweaking:concrete_powder if block ~ ~ ~ minecraft:water_cauldron run item modify entity @s contents mc_tweaking:convert_concrete_powder
+
+#   dirt to mud
+execute as @e[type=minecraft:item] at @s if items entity @s contents dirt if block ~ ~ ~ minecraft:water_cauldron run item modify entity @s contents mc_tweaking:convert_dirt_to_mud
+
+
 schedule function mc_tweaking:tick 1t
