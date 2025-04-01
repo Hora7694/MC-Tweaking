@@ -1,0 +1,162 @@
+[
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:white_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:orange_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:magenta_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:light_blue_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:yellow_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:lime_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:pink_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:gray_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:light_gray_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:cyan_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:purple_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:blue_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:brown_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:green_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:red_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:black_banner"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_banner"
+        }
+    }
+]

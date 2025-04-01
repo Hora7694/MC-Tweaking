@@ -33,11 +33,30 @@ execute as @e[type=minecraft:item] at @s if items entity @s contents minecraft:m
 #   concrete powder to concrete
 execute as @e[type=minecraft:item] at @s if items entity @s contents #mc_tweaking:concrete_powder if block ~ ~ ~ minecraft:water_cauldron run item modify entity @s contents mc_tweaking:convert_concrete_powder
 
+#   dirt to mud
+execute as @e[type=minecraft:item] at @s if items entity @s contents dirt if block ~ ~ ~ minecraft:water_cauldron run item modify entity @s contents mc_tweaking:convert_dirt_to_mud
+
+
+
+#       Desaturation
+
 #   stained glass to glass
 execute as @e[type=minecraft:item] at @s if items entity @s contents #mc_tweaking:stained_glass if block ~ ~ ~ minecraft:water_cauldron run item modify entity @s contents mc_tweaking:convert_stained_glass
 
-#   dirt to mud
-execute as @e[type=minecraft:item] at @s if items entity @s contents dirt if block ~ ~ ~ minecraft:water_cauldron run item modify entity @s contents mc_tweaking:convert_dirt_to_mud
+#   stained glass pane to glass pane
+execute as @e[type=minecraft:item] at @s if items entity @s contents #mc_tweaking:stained_glass_pane if block ~ ~ ~ minecraft:water_cauldron run item modify entity @s contents mc_tweaking:convert_stained_glass_pane
+
+#   colored wool to white wool
+execute as @e[type=minecraft:item] at @s if items entity @s contents #mc_tweaking:colored_wool if block ~ ~ ~ minecraft:water_cauldron run item modify entity @s contents mc_tweaking:convert_colored_wool
+
+#   colored carpet to white carpet
+execute as @e[type=minecraft:item] at @s if items entity @s contents #mc_tweaking:colored_carpet if block ~ ~ ~ minecraft:water_cauldron run item modify entity @s contents mc_tweaking:convert_colored_carpet
+
+#   colored bed to white bed
+execute as @e[type=minecraft:item] at @s if items entity @s contents #mc_tweaking:colored_bed if block ~ ~ ~ minecraft:water_cauldron run item modify entity @s contents mc_tweaking:convert_colored_bed
+
+#   colored banner to white banner
+execute as @e[type=minecraft:item] at @s if items entity @s contents #mc_tweaking:colored_banner if block ~ ~ ~ minecraft:water_cauldron run item modify entity @s contents mc_tweaking:convert_colored_banner
 
 
 schedule function mc_tweaking:tick 1t
