@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "light",
+    "ingredient": "light",
+    "ingredients": [
+        "minecraft:torch",
+        "minecraft:glass"
+      ],
+    "result": {
+      "id": "minecraft:light",
+      "components": {
+        "minecraft:block_state": {
+          "level": "15"
+        }
+      },
+      "count": 1
+    }
+}

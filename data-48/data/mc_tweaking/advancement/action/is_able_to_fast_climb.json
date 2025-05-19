@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "conditions": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "flags": {
+            "is_sneaking": true
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mc_tweaking:action/climb_fast"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "blue_wool",
+  "ingredients": [
+    "minecraft:light_blue_wool",
+    "minecraft:black_wool"
+  ],
+  "result": {
+    "id": "minecraft:blue_wool",
+    "count": 2
+  }
+}

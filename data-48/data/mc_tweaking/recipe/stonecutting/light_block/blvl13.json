@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "light"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:light",
+    "components": {
+      "minecraft:block_state": {
+        "level": "13"
+      }
+    }
+  }
+}

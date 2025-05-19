@@ -1,0 +1,21 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:iron_ingot"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "recipes": [
+        "minecraft:anvil",
+        "minecraft:smithing_table",
+        "mc_tweaking:craft/smithing_table_with_crafting_table"
+      ]
+    }
+}  

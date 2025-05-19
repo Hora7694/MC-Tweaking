@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "uncrafted_minecart",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:tnt_minecart"
+    ]
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "tnt_minecart_uncrafted": true
+      },
+      "minecraft:item_name": "[{'translate':'tw.item.uncrafted_tnt_minecart','fallback':'Uncraft TNT Minecart','color':'green'}]"
+    },
+    "count": 1,
+    "id": "minecraft:tnt_minecart"
+  }
+}

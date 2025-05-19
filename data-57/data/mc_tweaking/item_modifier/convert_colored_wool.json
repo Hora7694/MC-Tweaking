@@ -1,0 +1,162 @@
+[
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:white_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:orange_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:magenta_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:light_blue_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:yellow_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:lime_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:pink_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:gray_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:light_gray_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:cyan_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:purple_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:blue_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:brown_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:green_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:red_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:black_wool"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_wool"
+        }
+    }
+]

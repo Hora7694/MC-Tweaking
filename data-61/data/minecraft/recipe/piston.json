@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "ppp",
+    "cic",
+    "crc"
+  ],
+  "key": {
+    "p": "#minecraft:planks",
+    "c": [
+      "minecraft:cobblestone",
+      "minecraft:cobbled_deepslate",
+      "minecraft:blackstone"
+    ],
+    "i": "minecraft:iron_ingot",
+    "r": "minecraft:redstone"
+  },
+  "result": {
+    "id": "minecraft:piston",
+    "count": 1
+  }
+}

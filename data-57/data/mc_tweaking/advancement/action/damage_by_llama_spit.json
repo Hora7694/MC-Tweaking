@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "damage_by_llama_spit": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "minecraft:llama"
+          }
+        }
+      }
+    }
+  },
+"rewards": {
+    "function": "mc_tweaking:action/damaged_by_llama_spit"
+  }
+}

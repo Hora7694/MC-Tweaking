@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:crafting_table"
+    },
+    "title": {
+      "translate": "mctweak.adv.mctweak.tittle",
+      "fallback": "MC Tweaking r2-1a71"
+    },
+    "description": {
+      "translate": "mctweak.adv.mctweak.desc",
+      "fallback": "§fTweak lot of Minecraft's craft and add some of new (more decraftable items, wood in stone cutter…)"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "hora:root",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

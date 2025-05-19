@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "conditions": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "mainhand": {
+              "items": "minecraft:clock"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mc_tweaking:action/clock/display_pos"
+  }
+}

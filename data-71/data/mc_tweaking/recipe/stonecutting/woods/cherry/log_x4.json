@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "category": "building",
+    "ingredient": "cherry_wood",
+    "result": {
+      "id": "minecraft:cherry_log",
+      "count": 4
+    }
+}

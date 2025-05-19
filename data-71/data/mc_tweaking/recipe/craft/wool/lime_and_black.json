@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "green_wool",
+  "ingredients": [
+    "minecraft:lime_wool",
+    "minecraft:black_wool"
+  ],
+  "result": {
+    "id": "minecraft:green_wool",
+    "count": 2
+  }
+}

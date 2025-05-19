@@ -1,0 +1,10 @@
+{
+  "function": "minecraft:filtered",
+  "item_filter": {
+    "items": "minecraft:wet_sponge"
+  },
+  "modifier": {
+    "function": "minecraft:set_item",
+    "item": "minecraft:sponge"
+  }
+}

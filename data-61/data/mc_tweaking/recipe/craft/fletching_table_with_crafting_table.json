@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "fletching_table",
+  "ingredients": [
+    "minecraft:crafting_table",
+    "minecraft:flint",
+    "minecraft:flint"
+  ],
+  "result": {
+    "id": "minecraft:fletching_table",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:magma_block",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:crimson_nylium",
+    "minecraft:warped_nylium",
+    "minecraft:soul_sand",
+    "minecraft:soul_soil",
+    "minecraft:glowstone",
+    "#minecraft:wart_blocks",
+    "minecraft:shroomlight"
+  ]
+}

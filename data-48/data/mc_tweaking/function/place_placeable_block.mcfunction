@@ -1,0 +1,1 @@
+$execute store success entity @s Age short 6000 run setblock ~ ~ ~ $(id) keep

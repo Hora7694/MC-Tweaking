@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:redstone_lamp",
+    "minecraft:target",
+    "minecraft:piston",
+    "minecraft:sticky_piston",
+    "minecraft:dispenser",
+    "minecraft:dropper",
+    "minecraft:crafter",
+    "minecraft:observer"
+  ]
+}

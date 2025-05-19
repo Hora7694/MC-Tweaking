@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "category": "building",
+    "ingredient": "minecraft:dark_oak_log",
+    "result": {
+      "id": "minecraft:stripped_dark_oak_log",
+      "count": 1
+    }
+}

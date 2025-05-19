@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "skull_banner_pattern",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:wither_skeleton_skull"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 16
+    },
+    "count": 1,
+    "id": "minecraft:skull_banner_pattern"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": [
+    "minecraft:warped_stem",
+    "minecraft:stripped_warped_stem",
+    "minecraft:warped_hyphae",
+    "minecraft:stripped_warped_hyphae"
+  ],
+  "result": {
+    "id": "minecraft:warped_planks",
+    "count": 4
+  }
+}

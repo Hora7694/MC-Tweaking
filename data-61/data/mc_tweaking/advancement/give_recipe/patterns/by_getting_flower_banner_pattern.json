@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:flower_banner_pattern"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "mc_tweaking:craft/pattern/flower_banner_pattern"
+    ]
+  }
+}

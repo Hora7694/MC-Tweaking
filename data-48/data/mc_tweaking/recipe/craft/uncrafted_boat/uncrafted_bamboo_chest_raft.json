@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "uncrafted_boat",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:bamboo_chest_raft"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:bamboo_chest_raft",
+    "components": {
+      "minecraft:item_name": "[{'translate':'tw.item.uncrafted_bamboo_chest_raft','fallback':'Uncraft Bamboo Chest Raft','color':'green'}]",
+      "minecraft:custom_data": {
+        "bamboo_chest_raft_uncrafted": true
+      }
+    }
+  }
+}

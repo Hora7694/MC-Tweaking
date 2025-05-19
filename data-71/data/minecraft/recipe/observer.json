@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "ccc",
+    "rrq",
+    "ccc"
+  ],
+  "key": {
+    "c": [
+      "minecraft:cobblestone",
+      "minecraft:cobbled_deepslate",
+      "minecraft:blackstone"
+    ],
+    "r": "minecraft:redstone",
+    "q": "minecraft:quartz"
+  },
+  "result": {
+    "id": "minecraft:observer",
+    "count": 1
+  }
+}

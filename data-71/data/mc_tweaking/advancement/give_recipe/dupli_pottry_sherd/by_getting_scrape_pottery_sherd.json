@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:scrape_pottery_sherd"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "mc_tweaking:craft/dupli_pottery_sherd/scrape_pottery_sherd"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:armor_stand"
+      }
+    ]
+  ],
+  "result": {
+    "id": "minecraft:armor_stand",
+    "count": 1,
+    "components": {
+      "minecraft:entity_data": {
+        "id": "minecraft:armor_stand",
+        "ShowArms": true
+      },
+      "minecraft:lore": [
+        "{'text':'Attrubute:','color':'gray','italic':false}",
+        "{'text':' Visible Arms','color':'blue','italic':false}"
+      ]
+    }
+  }
+}

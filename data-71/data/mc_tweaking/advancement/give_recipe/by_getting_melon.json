@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:melon"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "recipes": [
+        "mc_tweaking:craft/melon_slice"
+      ]
+    }
+}  

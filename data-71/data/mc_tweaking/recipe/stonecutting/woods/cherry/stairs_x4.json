@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": [
+    "minecraft:cherry_log",
+    "minecraft:stripped_cherry_log",
+    "minecraft:cherry_wood",
+    "minecraft:stripped_cherry_wood"
+  ],
+  "result": {
+    "id": "minecraft:cherry_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:beehives",
+    "minecraft:honeycomb_block",
+    "minecraft:honey_block"
+  ]
+}

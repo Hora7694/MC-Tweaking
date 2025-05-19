@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "#minecraft:wool"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "recipes": [
+        "mc_tweaking:craft/string"
+      ]
+    }
+}  

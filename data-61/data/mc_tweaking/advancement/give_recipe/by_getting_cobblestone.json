@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:cobblestone"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "recipes": [
+        "mc_tweaking:craft/cobbled_deepslate_from_cobblestone"
+      ]
+    }
+}  

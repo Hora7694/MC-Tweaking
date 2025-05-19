@@ -1,0 +1,55 @@
+{
+  "criteria": {
+    "detection_mainhand": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "location": {
+            "position": {
+              "y": {
+                "min": -100,
+                "max": -55
+              }
+            },
+            "dimension": "minecraft:the_end"
+          },
+          "slots": {
+            "weapon.mainhand": {
+              "items": "minecraft:totem_of_undying"
+            }
+          }
+        }
+      }
+    },
+    "detection_offhand": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "location": {
+            "position": {
+              "y": {
+                "min": -100,
+                "max": -55
+              }
+            },
+            "dimension": "minecraft:the_end"
+          },
+          "slots": {
+            "weapon.offhand": {
+              "items": "minecraft:totem_of_undying"
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "detection_mainhand",
+      "detection_offhand"
+    ]
+  ],
+  "rewards": {
+    "function": "mc_tweaking:action/used_totem_in_end_void"
+  }
+}

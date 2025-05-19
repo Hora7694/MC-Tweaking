@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "minecraft:brick",
+    "s": "minecraft:miner_pottery_sherd"
+  },
+  "pattern": [
+    " b ",
+    "bsb",
+    " b "
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:miner_pottery_sherd"
+  }
+}

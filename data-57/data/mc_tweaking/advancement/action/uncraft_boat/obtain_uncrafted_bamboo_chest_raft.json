@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "hurt_squid_mainhand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:bamboo_chest_raft",
+            "components": {
+              "minecraft:custom_data": {
+                "bamboo_chest_raft_uncrafted": true
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "mc_tweaking:action/uncraft_boat/bamboo_chest_raft"
+  }
+}

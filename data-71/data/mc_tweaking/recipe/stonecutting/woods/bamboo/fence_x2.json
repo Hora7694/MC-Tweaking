@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": [
+    "minecraft:bamboo_block",
+    "minecraft:stripped_bamboo_block"
+  ],
+  "result": {
+    "id": "minecraft:bamboo_fence",
+    "count": 2
+  }
+}

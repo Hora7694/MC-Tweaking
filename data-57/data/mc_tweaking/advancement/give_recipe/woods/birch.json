@@ -1,0 +1,37 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "#minecraft:birch_logs"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "recipes": [
+        "mc_tweaking:stonecutting/woods/birch/fence_gate_x1",
+        "mc_tweaking:stonecutting/woods/birch/fence_gate_x4",
+        "mc_tweaking:stonecutting/woods/birch/fence_gate_x12",
+        "mc_tweaking:stonecutting/woods/birch/fence_x1",
+        "mc_tweaking:stonecutting/woods/birch/fence_x4",
+        "mc_tweaking:stonecutting/woods/birch/fence_x12",
+        "mc_tweaking:stonecutting/woods/birch/log_x1",
+        "mc_tweaking:stonecutting/woods/birch/planks_x4",
+        "mc_tweaking:stonecutting/woods/birch/planks_x12",
+        "mc_tweaking:stonecutting/woods/birch/slab_x1",
+        "mc_tweaking:stonecutting/woods/birch/slab_x2",
+        "mc_tweaking:stonecutting/woods/birch/slab_x8",
+        "mc_tweaking:stonecutting/woods/birch/slab_x24",
+        "mc_tweaking:stonecutting/woods/birch/stairs_x1",
+        "mc_tweaking:stonecutting/woods/birch/stairs_x4",
+        "mc_tweaking:stonecutting/woods/birch/stairs_x12",
+        "mc_tweaking:stonecutting/woods/birch/stripped_log_x1",
+        "mc_tweaking:stonecutting/woods/birch/stripped_log_x3",
+        "mc_tweaking:stonecutting/woods/birch/stripped_wood_x1"
+      ]
+    }
+  }

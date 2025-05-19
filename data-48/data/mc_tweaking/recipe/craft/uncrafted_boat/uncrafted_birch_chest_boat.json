@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "uncrafted_boat",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:birch_chest_boat"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:birch_chest_boat",
+    "components": {
+      "minecraft:item_name": "[{'translate':'tw.item.uncrafted_birch_chest_boat','fallback':'Uncraft Birch Chest Boat','color':'green'}]",
+      "minecraft:custom_data": {
+        "birch_chest_boat_uncrafted": true
+      }
+    }
+  }
+}

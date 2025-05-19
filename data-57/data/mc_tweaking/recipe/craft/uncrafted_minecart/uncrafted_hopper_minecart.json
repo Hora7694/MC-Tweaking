@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "uncrafted_minecart",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:hopper_minecart"
+    ]
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "hopper_minecart_uncrafted": true
+      },
+      "minecraft:item_name": "[{'translate':'tw.item.uncrafted_hopper_minecart','fallback':'Uncraft Hopper Minecart','color':'green'}]"
+    },
+    "count": 1,
+    "id": "minecraft:hopper_minecart"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "uncrafted_minecart",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:chest_minecart"
+    ]
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "chest_minecart_uncrafted": true
+      },
+      "minecraft:item_name": {
+        "translate":"tw.item.uncrafted_chest_minecart",
+        "fallback":"Uncraft Chest Minecart",
+          "color":"green"
+      }
+    },
+    "count": 1,
+    "id": "minecraft:chest_minecart"
+  }
+}

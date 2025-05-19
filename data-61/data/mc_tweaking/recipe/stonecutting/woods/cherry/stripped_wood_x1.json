@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "category": "building",
+    "ingredient": "cherry_wood",
+    "result": {
+      "id": "minecraft:stripped_cherry_wood",
+      "count": 1
+    }
+}

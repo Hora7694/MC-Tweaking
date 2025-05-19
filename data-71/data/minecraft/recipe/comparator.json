@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "comparator",
+  "category": "redstone",
+  "pattern": [
+    " t ",
+    "tqt",
+    "sss"
+  ],
+  "key": {
+    "t": "minecraft:redstone_torch",
+    "q": "minecraft:quartz",
+    "s": [
+      "minecraft:stone",
+      "minecraft:granite",
+      "minecraft:andesite",
+      "minecraft:diorite",
+      "minecraft:deepslate"
+    ]
+  },
+  "result": {
+    "id": "minecraft:comparator",
+    "count": 1
+  }
+}  

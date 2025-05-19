@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "pink_wool",
+  "ingredients": [
+    "minecraft:purple_wool",
+    "minecraft:white_wool"
+  ],
+  "result": {
+    "id": "minecraft:pink_wool",
+    "count": 2
+  }
+}

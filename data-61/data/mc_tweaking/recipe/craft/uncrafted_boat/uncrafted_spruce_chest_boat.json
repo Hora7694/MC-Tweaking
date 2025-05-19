@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "uncrafted_boat",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:spruce_chest_boat"
+    ]
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "spruce_chest_boat_uncrafted": true
+      },
+      "minecraft:item_name": "[{'translate':'tw.item.uncrafted_spruce_chest_boat','fallback':'Uncraft Spruce Chest Boat','color':'green'}]"
+    },
+    "count": 1,
+    "id": "minecraft:spruce_chest_boat"
+  }
+}

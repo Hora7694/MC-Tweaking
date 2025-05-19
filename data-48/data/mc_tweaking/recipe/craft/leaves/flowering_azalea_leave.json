@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "leaves",
+  "category": "misc",
+  "pattern": [
+    "LLL",
+    "LSL",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:leaves"
+    },
+    "S": {
+      "item": "minecraft:flowering_azalea"
+    }
+  },
+  "result": {
+    "count": 8,
+    "id": "minecraft:flowering_azalea_leaves"
+  }
+}

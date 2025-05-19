@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "uncrafted_boat",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:pale_oak_chest_boat"
+    ]
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "pale_oak_chest_boat_uncrafted": true
+      },
+      "minecraft:item_name": "[{'translate':'tw.item.uncrafted_pale_oak_chest_boat','fallback':'Uncraft Pale Oak Chest Boat','color':'green'}]"
+    },
+    "count": 1,
+    "id": "minecraft:pale_oak_chest_boat"
+  }
+}

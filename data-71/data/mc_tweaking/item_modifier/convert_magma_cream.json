@@ -1,0 +1,10 @@
+{
+  "function": "minecraft:filtered",
+  "item_filter": {
+    "items": "minecraft:magma_cream"
+  },
+  "modifier": {
+    "function": "minecraft:set_item",
+    "item": "minecraft:slime_ball"
+  }
+}

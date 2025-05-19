@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "bark",
+    "pattern": [
+      "ll",
+      "ll"
+    ],
+    "key": {
+      "l": "minecraft:stripped_crimson_stem"
+    },
+    "result": {
+      "id": "minecraft:stripped_crimson_hyphae",
+      "count": 4
+    }
+}

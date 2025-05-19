@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "bark",
+    "pattern": [
+      "ll",
+      "ll"
+    ],
+    "key": {
+      "l": "minecraft:mangrove_log"
+    },
+    "result": {
+      "id": "minecraft:mangrove_wood",
+      "count": 4
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:ancient_debris"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "recipes": [
+        "minecraft:netherite_scrap_from_blasting"
+      ]
+    }
+}  

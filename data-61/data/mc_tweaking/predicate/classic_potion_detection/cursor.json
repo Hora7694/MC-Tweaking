@@ -1,0 +1,31 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "slots": {
+        "player.cursor": {
+          "items": [
+              "minecraft:potion"
+            ]
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "slots": {
+          "player.cursor": {
+            "components": {
+              "minecraft:max_stack_size": 16
+            }
+          }
+        }
+      }
+    }
+  }
+]

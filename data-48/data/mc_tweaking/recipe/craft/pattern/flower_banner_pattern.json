@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "flower_banner_pattern",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:flower_banner_pattern"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:flower_banner_pattern",
+    "components": {
+      "minecraft:max_stack_size": 16
+    }
+  }
+}

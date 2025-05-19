@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:command_blocks",
+    "minecraft:jigsaw",
+    "minecraft:structure_block",
+    "minecraft:structure_void",
+    "minecraft:barrier",
+    "minecraft:light"
+  ]
+}

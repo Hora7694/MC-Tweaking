@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "conditions": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "mainhand": {
+              "items": "minecraft:compass"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mc_tweaking:action/compass/display_pos"
+  }
+}

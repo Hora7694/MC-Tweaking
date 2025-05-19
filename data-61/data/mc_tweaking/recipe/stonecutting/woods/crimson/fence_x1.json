@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": "minecraft:crimson_planks",
+  "result": {
+    "id": "minecraft:crimson_fence",
+    "count": 1
+  }
+}

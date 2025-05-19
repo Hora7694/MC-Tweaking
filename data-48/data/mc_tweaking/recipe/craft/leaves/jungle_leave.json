@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "leaves",
+  "category": "misc",
+  "pattern": [
+    "LLL",
+    "LSL",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:leaves"
+    },
+    "S": {
+      "item": "minecraft:jungle_sapling"
+    }
+  },
+  "result": {
+    "count": 8,
+    "id": "minecraft:jungle_leaves"
+  }
+}

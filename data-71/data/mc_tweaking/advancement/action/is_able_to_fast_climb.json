@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "conditions": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "input": {
+              "jump": true,
+              "sneak": true
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mc_tweaking:action/climb_fast"
+  }
+}

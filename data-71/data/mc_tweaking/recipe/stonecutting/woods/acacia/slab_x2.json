@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": "minecraft:acacia_planks",
+  "result": {
+    "id": "minecraft:acacia_slab",
+    "count": 2
+  }
+}

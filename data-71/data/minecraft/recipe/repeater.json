@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "trt",
+    "sss"
+  ],
+  "key": {
+    "t": "minecraft:redstone_torch",
+    "r": "minecraft:redstone",
+    "s": [
+      "minecraft:stone",
+      "minecraft:granite",
+      "minecraft:andesite",
+      "minecraft:diorite",
+      "minecraft:deepslate"
+    ]
+  },
+  "result": {
+    "id": "minecraft:repeater",
+    "count": 1
+  }
+}  

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "sts",
+      "p p"
+    ],
+    "key": {
+      "s": "minecraft:stick",
+      "t": [
+        "minecraft:stone_slab",
+        "minecraft:red_sandstone_slab",
+        "minecraft:sandstone_slab"
+      ],
+      "p": "#minecraft:planks"
+    },
+    "result": {
+      "id": "minecraft:grindstone",
+      "count": 1
+    }
+}

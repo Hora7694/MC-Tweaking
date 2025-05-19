@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "iii",
+    "ifi",
+    "sss"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "f": {
+      "item": "minecraft:furnace"
+    },
+    "s": [
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_sandstone"
+      },
+      {
+        "item": "minecraft:smooth_red_sandstone"
+      }
+    ]
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:blast_furnace"
+  }
+}

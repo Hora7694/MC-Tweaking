@@ -1,0 +1,162 @@
+[
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:white_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:orange_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:magenta_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:light_blue_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:yellow_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:lime_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:pink_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:gray_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:light_gray_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:cyan_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:purple_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:blue_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:brown_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:green_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:red_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:black_carpet"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:white_carpet"
+        }
+    }
+]

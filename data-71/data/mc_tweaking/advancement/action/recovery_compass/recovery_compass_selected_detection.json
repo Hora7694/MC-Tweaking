@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "conditions": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "mainhand": {
+              "items": "minecraft:recovery_compass"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mc_tweaking:action/recovery_compass/display_pos"
+  }
+}

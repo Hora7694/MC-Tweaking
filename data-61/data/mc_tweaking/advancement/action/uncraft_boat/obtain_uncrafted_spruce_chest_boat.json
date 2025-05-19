@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "hurt_squid_mainhand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:spruce_chest_boat",
+            "components": {
+              "minecraft:custom_data": {
+                "spruce_chest_boat_uncrafted": true
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "mc_tweaking:action/uncraft_boat/spruce_chest_boat"
+  }
+}

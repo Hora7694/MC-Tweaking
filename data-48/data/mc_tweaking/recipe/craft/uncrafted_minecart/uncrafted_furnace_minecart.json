@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "uncrafted_minecart",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:furnace_minecart"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:furnace_minecart",
+    "components": {
+      "minecraft:custom_data": {
+        "furnace_minecart_uncrafted": true
+      },
+      "minecraft:item_name": "[{'translate':'tw.item.uncrafted_furnace_minecart','fallback':'Uncraft Furnace Minecart','color':'green'}]"
+    }
+  }
+}

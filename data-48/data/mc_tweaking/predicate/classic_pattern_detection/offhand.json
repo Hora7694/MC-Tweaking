@@ -1,0 +1,38 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "offhand": {
+          "items": [
+            "minecraft:creeper_banner_pattern",
+            "minecraft:flow_banner_pattern",
+            "minecraft:flower_banner_pattern",
+            "minecraft:globe_banner_pattern",
+            "minecraft:guster_banner_pattern",
+            "minecraft:mojang_banner_pattern",
+            "minecraft:piglin_banner_pattern",
+            "minecraft:skull_banner_pattern"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "offhand": {
+            "components": {
+              "minecraft:max_stack_size": 16
+            }
+          }
+        }
+      }
+    }
+  }
+]

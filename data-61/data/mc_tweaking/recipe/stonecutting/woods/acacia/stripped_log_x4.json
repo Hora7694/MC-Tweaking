@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:stonecutting",
+    "category": "building",
+    "ingredient": [
+      "minecraft:stripped_acacia_wood",
+      "minecraft:acacia_wood"
+    ],
+    "result": {
+      "id": "minecraft:stripped_acacia_log",
+      "count": 4
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": "minecraft:cherry_stairs",
+  "result": {
+    "id": "minecraft:cherry_slab",
+    "count": 1
+  }
+}

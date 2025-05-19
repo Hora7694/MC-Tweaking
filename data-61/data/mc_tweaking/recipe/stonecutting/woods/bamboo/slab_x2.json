@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": "minecraft:bamboo_planks",
+  "result": {
+    "id": "minecraft:bamboo_slab",
+    "count": 2
+  }
+}

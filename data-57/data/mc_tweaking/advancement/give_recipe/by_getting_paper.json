@@ -1,0 +1,20 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:paper"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "recipes": [
+        "mc_tweaking:craft/cartography_table_with_crafting_table",
+        "minecraft:cartography_table"
+      ]
+    }
+}  

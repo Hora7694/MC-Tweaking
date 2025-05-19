@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "category": "building",
+    "ingredient": "jungle_wood",
+    "result": {
+      "id": "minecraft:stripped_jungle_wood",
+      "count": 1
+    }
+}

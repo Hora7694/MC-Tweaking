@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:birch_log"
+    },
+    {
+      "item": "minecraft:stripped_birch_log"
+    },
+    {
+      "item": "minecraft:stripped_birch_wood"
+    },
+    {
+      "item": "minecraft:birch_wood"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:birch_fence_gate"
+  }
+}

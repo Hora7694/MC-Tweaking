@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "hurt_squid_mainhand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:hopper_minecart",
+            "components": {
+              "minecraft:custom_data": {
+                "hopper_minecart_uncrafted": true
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "mc_tweaking:action/uncraft_minecart/hopper_minecart"
+  }
+}

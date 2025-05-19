@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:stonecutting",
+    "category": "building",
+    "ingredient": [
+      "minecraft:stripped_crimson_hyphae",
+      "minecraft:crimson_hyphae"
+    ],
+    "result": {
+      "id": "minecraft:stripped_crimson_stem",
+      "count": 4
+    }
+}

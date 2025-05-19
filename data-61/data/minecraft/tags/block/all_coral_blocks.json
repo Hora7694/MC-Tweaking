@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:coral_blocks",
+    "#minecraft:dead_coral_blocks"
+  ]
+}

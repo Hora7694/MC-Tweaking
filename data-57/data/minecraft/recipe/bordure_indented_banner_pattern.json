@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "bordure_indented_banner_pattern",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:vine"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 16
+    },
+    "count": 1,
+    "id": "minecraft:bordure_indented_banner_pattern"
+  }
+}

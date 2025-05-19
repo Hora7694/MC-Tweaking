@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": [
+    "minecraft:oak_log",
+    "minecraft:stripped_oak_log",
+    "minecraft:stripped_oak_wood",
+    "minecraft:oak_wood"
+  ],
+  "result": {
+    "id": "minecraft:oak_fence",
+    "count": 4
+  }
+}

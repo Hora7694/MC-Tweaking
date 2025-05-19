@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:quartz"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "recipes": [
+        "mc_tweaking:craft/redstone/daylight_detector",
+        "mc_tweaking:craft/redstone/comparator",
+        "mc_tweaking:craft/redstone/observer",
+        "minecraft:quartz_block"
+      ]
+    }
+}  

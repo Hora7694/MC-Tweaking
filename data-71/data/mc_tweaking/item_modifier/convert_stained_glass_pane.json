@@ -1,0 +1,162 @@
+[
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:white_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:orange_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:magenta_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:light_blue_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:yellow_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:lime_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:pink_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:gray_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:light_gray_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:cyan_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:purple_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:blue_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:brown_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:green_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:red_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    },
+    {
+        "function": "minecraft:filtered",
+        "item_filter": {
+            "items": "minecraft:black_stained_glass_pane"
+        },
+        "modifier": {
+            "function": "minecraft:set_item",
+            "item": "minecraft:glass_pane"
+        }
+    }
+]

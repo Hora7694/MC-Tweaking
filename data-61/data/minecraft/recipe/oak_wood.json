@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "bark",
+    "pattern": [
+      "ll",
+      "ll"
+    ],
+    "key": {
+      "l": "minecraft:oak_log"
+    },
+    "result": {
+      "id": "minecraft:oak_wood",
+      "count": 4
+    }
+}
